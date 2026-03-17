@@ -1,5 +1,4 @@
-## Hi there 👋
-👋 Hi I am Sami, welcome to my GitHub profile
+## 👋 Hi, I am Sami and welcome to my GitHub profile 👋
 
 🎯 **Data Analyst | Bio-engineer | Problem Solver**
 
